@@ -1,4 +1,7 @@
-# Source code for the _Towards Efficient Cytometry-Based Diagnosis with Deep Ensembles_ publication
+# Source code for the _CytoDNNEnsemble: Combining cell-level and distribution-level representations for flow-cytometry classification_ publication
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22944423.svg)](https://doi.org/10.5281/zenodo.22944423)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22895968.svg)](https://doi.org/10.5281/zenodo.22895968)
 
 [Paper Link]()
 
